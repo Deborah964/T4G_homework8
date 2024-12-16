@@ -10,3 +10,6 @@ else if(user=="female"){
 else{
     alert(`invalid input,refresh and try again`)
 }
+
+// checkGender()
+
